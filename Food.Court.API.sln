@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Food.Court.API", "Food.Court.API\Food.Court.API.csproj", "{2A3EDC2F-3EED-417E-A7B8-4C1C4D5FCACC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Food.Model", "Food.Model\Food.Model.csproj", "{2A7927B8-7497-441F-BE64-052F78FB9B98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A3EDC2F-3EED-417E-A7B8-4C1C4D5FCACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3EDC2F-3EED-417E-A7B8-4C1C4D5FCACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3EDC2F-3EED-417E-A7B8-4C1C4D5FCACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3EDC2F-3EED-417E-A7B8-4C1C4D5FCACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A7927B8-7497-441F-BE64-052F78FB9B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7927B8-7497-441F-BE64-052F78FB9B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7927B8-7497-441F-BE64-052F78FB9B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7927B8-7497-441F-BE64-052F78FB9B98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B45A032-A00C-4306-A52A-15150F960E55}
+	EndGlobalSection
+EndGlobal
